@@ -1,48 +1,49 @@
-body {
-  background-color: #999999;
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-  padding-top: 0px;
-  padding-right: 0px;
-  padding-bottom: 0px;
-  padding-left: 0px;
-  font-family: "Arial", "Helvetica", "sans-serif";
-}
-
-.global {
-  background-color: #006600;
-  margin-top: 0px;
-  margin-right: auto;
-  margin-bottom: 0px;
+.conteudo {
+  background-color: chocolate;
+  width: 1000px;
   margin-left: auto;
-  width: 960px;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .cabeçalho {
-  background-color: #ff6600;
-  height: 180px;
-  margin-bottom: 20px;
+  background-color: aquamarine;
+  height: 130px;
+  margin-bottom: 18px;
+  padding-top: 20px;
 }
 
 .menu {
-  height: 80px;
   background-color: #333333;
+  height: 50px;
   margin-bottom: 20px;
 }
 
 .dados {
-  background-color: #ffcc66;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-bottom: 10px;
-  padding-left: 10px;
+  background-color: #cc6600;
+  padding-top: 12px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
   margin-bottom: 20px;
 }
 
 .pe_pagina {
+  height: 80px;
   background-color: #666666;
-  height: 50px;
+}
+
+.logo {
+  height: 97px;
+  width: 372px;
+  background-color: aquamarine;
+}
+
+img {
+}
+
+header {
+  height: 110px !important;
 }
 
